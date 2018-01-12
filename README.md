@@ -1,2 +1,10 @@
 # fsociety
 ONE CLICK TO INSTALL &amp; ONE CLICK TO RUN
+FOR INSTALLATION ---
+chmod +x installer
+sh installer
+FOR RUN ---
+chmod +x run
+sh run 
+
+FOR MORE SHORTCUTS SUBSCRIBE TANMAYSRKR YOUTUBE CHANNEL 
