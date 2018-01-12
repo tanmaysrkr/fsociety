@@ -24,9 +24,10 @@ cd $home;
 pkg install -y curl;
 curl -LO https://raw.githubusercontent.com/tanmaysrkr/fsociety/master/run;
 chmod +x run;
+
 echo "TYPE sh run FOR FSOCIETY";
 echo "DON'T DELETE ANY FILE OTHER WISE FSOCIETY WILLBE CRASHED !";
 echo "For More SUBSCRIBE TANMAYSRKR YOUTUBE CHANNEL";
  
- 
+ rm -r installer;
 
