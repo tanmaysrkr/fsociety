@@ -1,0 +1,32 @@
+#!/bin/bash
+echo "
+   _____ ____   ___   ____ ___ _____ _______   __
+  |  ___/ ___| / _ \ / ___|_ _| ____|_   _\ \ / /
+  | |_  \___ \| | | | |    | ||  _|   | |  \ V /
+  |  _|  ___) | |_| | |___ | || |___  | |   | |
+  |_|   |____/ \___/ \____|___|_____| |_|   |_| BY TANMAYSRKR ";
+
+
+
+
+
+
+
+
+
+echo "Wait While Installing";
+pkg install -y git python2;
+git clone https://github.com/Manisso/fsociety;
+echo "Process Running Wait 5 Seconds  More ";
+cd fsociety && chmod +x fsociety.py;
+echo " DONE!!! BUT WAIT SOME TIME MORE FOR REARRANGING!!!";
+cd $home;
+pkg install -y curl;
+curl -LO https://raw.githubusercontent.com/tanmaysrkr/fsociety/master/run;
+chmod +x run;
+echo "TYPE sh run FOR FSOCIETY";
+echo "DON'T DELETE ANY FILE OTHER WISE FSOCIETY WILLBE CRASHED !";
+echo "For More SUBSCRIBE TANMAYSRKR YOUTUBE CHANNEL";
+ 
+ 
+
