@@ -1,0 +1,4 @@
+#!/bin/bash
+cd fsociety;
+chmod +x fsociety.py;
+python2 fsociety.py;
