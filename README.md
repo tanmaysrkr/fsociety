@@ -1,0 +1,2 @@
+# fsociety
+ONE CLICK TO INSTALL &amp; ONE CLICK TO RUN
